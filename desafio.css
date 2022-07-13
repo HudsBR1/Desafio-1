@@ -1,0 +1,42 @@
+
+.vertical-menu {
+    width: 200px;
+    border-top: 30px;
+    
+     
+  }
+
+  
+  .vertical-menu a {
+    background-color: #d1d1d1;
+    color: #000000;
+    
+    display: block;
+    font: style helvetica 16px;
+    border-bottom:1px solid #666;
+    border-left: 1px solid #666;;
+    border-right: 1px solid #666;;
+     
+    
+    padding: 12px; 
+    text-decoration: none; 
+  }
+  
+
+  
+  
+  .vertical-menu a:hover {
+    background-color: #fcc700; 
+  
+  }img+span {
+    
+      float: right;
+      
+    
+  }
+  
+  .vl {
+    border-left: 200px solid #d1d1d1;
+    height: 300px;
+    position: absolute;
+  }
